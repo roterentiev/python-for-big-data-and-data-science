@@ -1,0 +1,1 @@
+print("Roman Terentiev, AI-2024")
